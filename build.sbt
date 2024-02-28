@@ -1,6 +1,6 @@
 import Dependencies._
 
-ThisBuild / organization := "dev.insideyou"
+ThisBuild / organization := "dev.anna"
 ThisBuild / scalaVersion := "3.3.1"
 
 lazy val `learn-zio` =
